@@ -1,7 +1,7 @@
 # noughts-and-crosses
 Noughts and Crosses game made with pygame
 
-By Andrew Towell
+By Andrew Towell (2019)
 
 Main File
   - Noughts_and_Crosses.py
